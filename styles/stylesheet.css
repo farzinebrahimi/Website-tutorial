@@ -1,0 +1,15 @@
+.container{
+    background-color: dimgray;
+    border-radius: 10px;
+
+}
+.title{
+    margin: 20px;
+    font-family: Arial;
+}
+h1, h4, p{
+    font-family: Pristina;
+}
+button{
+    padding: 4px 8px;
+}
